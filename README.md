@@ -11,12 +11,12 @@ MySQL (MariaDB)
 
 
 ## Installation
- -> Clone the repository, git clone
- -> symfony check:requirements
- -> composer install
- -> php bin/console about (to get more information about the applicaiton)
- -> Set up your MySQL/SQLite/PostgreSQL connection -> .env (i used MariaDB)
- -> To start the server , symfony server:start (you will need symfony CLI)
+ -> 1. Clone the repository, git clone
+ -> 2. symfony check:requirements
+ -> 3. composer install
+ -> 4. php bin/console about (to get more information about the applicatioon)
+ -> 5. Set up your MySQL/SQLite/PostgreSQL connection -> .env (i used MariaDB)
+ -> 6. To start the server , symfony server:start (you will need symfony CLI)
 
 
 ## Changelog
