@@ -20,4 +20,5 @@ MySQL (MariaDB)
 
 
 ## Images (captured 2022.07.30)
+https://i.imgur.com/B21kVsi.png
 
