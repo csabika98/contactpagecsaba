@@ -1,4 +1,4 @@
-Application deployed to heroku: https://phpsecretservercsabasallai.herokuapp.com/
+Application deployed to heroku: 
 # Contact page 
 
 A simple web application that where you can ask any questions.  
