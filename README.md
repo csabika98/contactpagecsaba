@@ -1,8 +1,7 @@
-Application deployed to heroku: 
+Application deployed to heroku: https://contactpagecsabika98.herokuapp.com/
 # Contact page 
 
 Simple contact page built in Symfony 6
-
 
 
 ## Used technologies
@@ -12,13 +11,16 @@ MySQL (MariaDB)
 
 
 ## Installation
-
-
-## Usage
+ -> Clone the repository, git clone
+ -> symfony check:requirements
+ -> composer install
+ -> php bin/console about (to get more information about the applicaiton)
+ -> Set up your MySQL/SQLite/PostgreSQL connection -> .env (i used MariaDB)
+ -> To start the server , symfony server:start (you will need symfony CLI)
 
 
 ## Changelog
-
+v0.1 -> Initial version
 
 ## Images (captured 2022.07.30)
 ![alt text](https://i.imgur.com/B21kVsi.png)
